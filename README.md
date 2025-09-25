@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="vm" src="https://github.com/user-attachments/assets/e3d412fa-1861-462f-819d-fdd02fd08701" />
+
 # 🎬 Video Manager
 
 **Video Manager** is a lightweight video & audio downloader built with Python, PyQt5, and yt-dlp.  
