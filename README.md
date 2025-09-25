@@ -24,3 +24,5 @@ Simply download the latest **Video Manager.exe** from the [Releases](../../relea
 1. Install requirements:
    ```bash
    pip install -r requirements.txt
+2. Run the app
+   python video_manager.py
