@@ -24,5 +24,10 @@ Simply download the latest **Video Manager.exe** from the [Releases](../../relea
 1. Install requirements:
    ```bash
    pip install -r requirements.txt
-2. Run the app
-   python video_manager.py
+
+## 🙏 Acknowledgment
+
+This project **Video Manager** was inspired and initiated by **M01_1**.  
+The implementation, code, and design were developed in collaboration with **ChatGPT**.  
+
+Special thanks to ChatGPT for the guidance, coding support, and logo design that made this app possible.  
